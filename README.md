@@ -1,1 +1,1 @@
-# Regression-model-of-a-wastewater-phytoremediation-process
+# Regression model of a wastewater phytoremediation process
